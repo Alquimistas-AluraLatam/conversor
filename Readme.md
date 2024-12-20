@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter (Conversor de Moedas/Monedas)
 
 This repository contains two main branches for different code versions:
 
